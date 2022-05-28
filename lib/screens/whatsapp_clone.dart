@@ -47,7 +47,7 @@ class _WhatsAppCloneState extends State<WhatsAppClone> {
               return [
                 PopupMenuItem(
                   child: Text("New group"),
-                  value: "New group",
+                  value: "New groups",
                 ),
                 PopupMenuItem(
                   child: Text("New broadcast"),
